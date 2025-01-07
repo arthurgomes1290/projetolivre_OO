@@ -8,7 +8,7 @@ Um aplicativo simples e seguro para **gerar senhas fortes** e armazená-las loca
   - Números
   - Símbolos
 - Armazenamento das credenciais (nome do aplicativo/serviço, nome de usuário e senha) em um arquivo JSON.
-- Exibição de todas as contas salvas em uma interface gráfica amigável.
+- Exibição de todas as contas salvas em uma interface gráfica.
 
 
 ---
